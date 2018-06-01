@@ -1,3 +1,5 @@
+#Directing to pretrained models
+
 import os
 
 # here (https://github.com/pytorch/vision/tree/master/torchvision/models) to find the download link of pretrained models
